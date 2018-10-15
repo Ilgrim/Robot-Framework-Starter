@@ -1,5 +1,5 @@
 ***Settings***
-Documentation     Performs the tests for Bulk Update Rates
+Documentation     Performs the tests for feature 1
 Test Teardown     Close Browser
 Resource          ../keywords/keywords_feature_1.robot
 
