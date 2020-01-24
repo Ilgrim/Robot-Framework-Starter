@@ -1,4 +1,4 @@
-# robot_proyect
+## 👀 Robot Test suite starter
 Basic structure for robotframework
 
 ## Installation
@@ -9,26 +9,26 @@ Basic structure for robotframework
 
 - Install Pi 
 
-$ sudo easy_install pip
+```$ sudo easy_install pip```
 
 - Install Robotframework Selenium
 
-$ pip install robotframework-SeleniumLibrary
+```$ pip install robotframework-SeleniumLibrary```
 
 - Install Brew
 
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 - Install Chrome Driver
 
-$ brew tap caskroom/cask
+```$ brew tap caskroom/cask```
 
-$ brew cask install chromedriver
+```$ brew cask install chromedriver```
 
 - Install Firefox driver
 
-$ brew install geckodriver
+```$ brew install geckodriver```
  
 ## To run the test 1
  
-run $ robot -d Results/test0010 tests/feature_1.robot
+```run $ robot -d Results/test0010 tests/feature_1.robot```
